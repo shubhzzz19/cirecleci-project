@@ -1,6 +1,6 @@
 # CircleCI Project with Simple Python Hello project
 
-![Project Pic](https://github.com/shubhzzz19/cirecleci-project/assets/73218792/185ef75e-92b3-4426-9f97-1f84e7de0ae9)
+![Project PIC](https://github.com/shubhzzz19/cirecleci-project/assets/73218792/26281292-f1e3-44e2-a637-2a58230dbaa8)
 
 ### Run the code
 ```
